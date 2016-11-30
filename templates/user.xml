@@ -1,0 +1,22 @@
+<templateSet group="user">
+  <template name="jit" value="it('should $DESCRIPTION$', async(() =&gt; {&#10;        $END$&#10;      }));" description="jasmine it for angular" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jdes" value="describe('$DESCRIPTION$', () =&gt; {&#10;    $END$&#10;      });" description="describe for angular" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jbef" value="beforeEach(()=&gt;{&#10;        $END$&#10;      });" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
