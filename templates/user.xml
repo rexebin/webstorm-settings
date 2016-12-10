@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="jit" value="it('should $DESCRIPTION$', async(() =&gt; {&#10;        $END$&#10;      }));" description="jasmine it for angular" toReformat="true" toShortenFQNames="true">
+  <template name="jita" value="it('should $DESCRIPTION$', async(() =&gt; {&#10;        $END$&#10;      }));" description="jasmine it async for angular" toReformat="true" toShortenFQNames="true">
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
@@ -18,5 +18,9 @@
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
+  </template>
+  <template name="jit" value="it('should $DESCRIPTION$', () =&gt; {&#10;        $END$&#10;      });" description="Jasmine it" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
