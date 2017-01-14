@@ -67,7 +67,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/ui-model/ui-model" />
+          <option name="url" value="https://github.com/ui-model/ui-model.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ui-model/ui-model-angular.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
