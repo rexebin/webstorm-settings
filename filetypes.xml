@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="xliff" type="PLAIN_TEXT" />
+      <mapping ext="module" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
