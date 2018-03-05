@@ -1,14 +1,14 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--write $FilePath$" />
+      <option name="arguments" value="--single-quote --print-width 120 --write $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="ts" />
       <option name="immediateSync" value="false" />
       <option name="name" value="prettier" />
-      <option name="output" value="$ProjectFileDir$" />
+      <option name="output" value="" />
       <option name="outputFilters">
         <array />
       </option>
@@ -17,18 +17,18 @@
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--write $FilePath$" />
+      <option name="arguments" value="--single-quote --print-width 120 --write $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="ts" />
       <option name="immediateSync" value="false" />
       <option name="name" value="" />
-      <option name="output" value="$ProjectFileDir$" />
+      <option name="output" value="" />
       <option name="outputFilters">
         <array />
       </option>
@@ -37,7 +37,7 @@
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
