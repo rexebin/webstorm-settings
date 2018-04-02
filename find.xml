@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\libs\identity [clients]'" />
-    <option name="defaultScopeName" value="Directory '...\libs\identity [clients]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\libs\identity [clients]'" />
+    <option name="customScope" value="Directory '...\libs\layout [clients]'" />
+    <option name="defaultScopeName" value="Directory '...\libs\layout [clients]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\libs\layout [clients]'" />
   </component>
 </application>
