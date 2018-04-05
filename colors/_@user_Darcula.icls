@@ -4,14 +4,13 @@
     <property name="created">2016-11-30T10:48:55</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2018-02-27T10:23:30</property>
+    <property name="modified">2018-04-05T10:08:25</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="FILESTATUS_ADDED" value="a7700" />
     <option name="FILESTATUS_COPIED" value="629755" />
