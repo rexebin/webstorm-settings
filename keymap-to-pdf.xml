@@ -1,0 +1,6 @@
+<application>
+  <component name="KeymapToPDF">
+    <option name="keymapName" value="Default for XWin" />
+    <option name="outputPath" value="$USER_HOME$/Downloads" />
+  </component>
+</application>
