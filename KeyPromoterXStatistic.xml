@@ -22,7 +22,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -31,6 +31,14 @@
           <ShortCut>'⌃⌥M'</ShortCut>
           <Description>Method...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'⌃⌥O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -62,7 +70,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Angular CLI Server'">
