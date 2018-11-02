@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Ag Grid Component.Selection Change.should select and not navigate if not in route mode, '">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Ag Grid Component.Selection Change.should select and not navigate if not in route mode, '</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Angular CLI Server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
