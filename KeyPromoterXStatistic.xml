@@ -46,7 +46,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -62,7 +62,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'⌃⌥O'</ShortCut>
           <Description>Optimize Imports</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat with Prettier">
@@ -94,6 +94,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Ag Grid Component.Selection Change.should select and not navigate if not in route mode, '</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'All Tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -134,7 +142,15 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>36</Count>
+          <Count>37</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All Tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'All Tests'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Angular CLI Server'">
@@ -153,6 +169,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Angular CLI Server'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -167,6 +191,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Md Side List Component.should mark for change detect on navigation end'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'⌥6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
