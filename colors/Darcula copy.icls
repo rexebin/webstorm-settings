@@ -4,7 +4,7 @@
     <property name="created">2017-03-17T10:17:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2018-12-07T20:47:13</property>
+    <property name="modified">2018-12-08T21:37:15</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
@@ -33,6 +33,27 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
+    </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="aaaa2c" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="aaaa2c" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="aaaa2c" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="aaaa2c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
   </attributes>
 </scheme>
