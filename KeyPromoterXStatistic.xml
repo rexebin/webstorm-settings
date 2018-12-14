@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌃C'</ShortCut>
           <Description>Copy</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Md Side List Component.should mark for change detect on navigation end'">
