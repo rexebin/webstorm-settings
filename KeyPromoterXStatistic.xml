@@ -270,7 +270,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>17</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
