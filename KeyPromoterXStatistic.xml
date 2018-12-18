@@ -177,6 +177,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Layout Container.should add &quot;has-toolbar&quot; class if there is a MatToolbar'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Layout Container.should add &quot;has-toolbar&quot; class if there is a MatToolbar'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Md Detail Frame Component.do not subscribe to route param if not in route mode'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
