@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -414,7 +414,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌥9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
     </option>
