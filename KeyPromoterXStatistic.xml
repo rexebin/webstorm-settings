@@ -462,7 +462,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Angular CLI Server'">
@@ -487,6 +487,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Md Side List Component.should mark for change detect on navigation end'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RouteToListDirective.should trigger action on if NavigationEnd event fired with urlAfterRedirect not containing &quot;detail&quot; or &quot;edit&quot;'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RouteToListDirective.should trigger action on if NavigationEnd event fired with urlAfterRedirect not containing &quot;detail&quot; or &quot;edit&quot;'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'jest all'">
@@ -526,7 +534,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>29</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
