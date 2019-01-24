@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌥9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
     </option>
