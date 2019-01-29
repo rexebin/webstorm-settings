@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="02c34ee6-51a0-4e1f-97a9-503c1354f07c" name="rexebin">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="rexebin@gmail.com" />
     <option name="AUTH_TYPE" value="BASIC" />
