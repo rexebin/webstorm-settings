@@ -297,6 +297,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MdEditRouterActionDirective'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'MdEditRouterActionDirective'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MdEditRouterActionDirective.should route on close'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'MdEditRouterActionDirective.should route on close'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Property Container Component'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -377,6 +393,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'md-edit-router-action.directive.spec.ts'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'md-edit-router-action.directive.spec.ts'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'start'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -398,7 +422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -582,7 +606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
