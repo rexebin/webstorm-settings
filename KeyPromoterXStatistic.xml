@@ -313,6 +313,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MdListSelectActionDirective.md dialog mod.should check if there is unsaved changes, if yes, do nothing'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'MdListSelectActionDirective.md dialog mod.should check if there is unsaved changes, if yes, do nothing'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Property Container Component'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
