@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -9,11 +11,14 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="customSidebarHeight" value="24" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="accentColor" value="80cbc4" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-6b1ae8c9:169b94f74a4:-7fff" />
     <option name="version" value="3.8.0.2" />
   </component>
