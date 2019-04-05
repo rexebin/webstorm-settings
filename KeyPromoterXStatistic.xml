@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>80</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌥9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>53</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
     </option>
