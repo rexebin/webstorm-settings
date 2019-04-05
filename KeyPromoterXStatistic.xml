@@ -102,7 +102,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'⌃⌥M'</ShortCut>
           <Description>Method...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>74</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -630,7 +630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌥9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>53</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
     </option>
