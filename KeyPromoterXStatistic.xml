@@ -662,7 +662,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌥9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>60</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
     </option>
