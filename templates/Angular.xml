@@ -1,4 +1,9 @@
 <templateSet group="Angular">
+  <template name="a-module" value="import { NgModule } from '@angular/core';&#10;&#10;import { $Name$Component } from './$name$.component';&#10;&#10;@NgModule({&#10; imports: [],&#10; exports: [],&#10; declarations: [$Name$Component],&#10; providers: [],&#10;})&#10;export class $Name$Module { }&#10;$END$" description="Angular Module" toReformat="true" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="lowercaseAndDash(Name)" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="a-pipe" value="import { Pipe, PipeTransform } from '@angular/core';&#10;&#10;@Pipe({&#10; name: '$selector_name$'&#10;})&#10;&#10;export class $Name$Pipe implements PipeTransform {&#10; transform(value: any, ...args: any[]): any {&#10;  $END$&#10; }&#10;}" description="Angular pipe" toReformat="true" toShortenFQNames="true">
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
     <variable name="selector_name" expression="lowercaseAndDash(Name)" defaultValue="" alwaysStopAt="true" />
