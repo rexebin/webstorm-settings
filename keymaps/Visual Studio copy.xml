@@ -1,4 +1,5 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="CollapseSelection" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
