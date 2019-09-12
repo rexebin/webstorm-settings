@@ -25,7 +25,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="mdo" value="@Optional()&#10;    @Inject(MAT_DIALOG_DATA)&#10;    public data: { filter: (t: $EntityName$) =&gt; boolean }," toReformat="true" toShortenFQNames="true">
+  <template name="mdo" value="@Optional()&#10;    @Inject(MAT_DIALOG_DATA)&#10;    public data: { filter: (t: $EntityName$) =&gt; boolean }," description="" toReformat="true" toShortenFQNames="true">
     <variable name="EntityName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
