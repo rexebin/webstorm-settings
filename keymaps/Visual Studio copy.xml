@@ -4,5 +4,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="Macro.format and save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Print" />
+  <action id="SaveAll" />
 </keymap>
