@@ -1,5 +1,4 @@
-<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
-  <action id="CollapseSelection" />
+<keymap version="1" name="Rex" parent="$default">
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -7,6 +6,6 @@
   <action id="Macro.format and save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="Print" />
+  <action id="ParameterInfo" />
   <action id="SaveAll" />
 </keymap>
