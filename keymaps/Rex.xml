@@ -1,8 +1,5 @@
 <keymap version="1" name="Rex" parent="$default">
   <action id="FileChooser.TogglePathShowing" />
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
   <action id="Macro.format and save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
