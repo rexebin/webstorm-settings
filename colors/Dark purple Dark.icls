@@ -1,37 +1,34 @@
-<scheme name="_@user_Dark purple" version="142" parent_scheme="Darcula">
+<scheme name="Dark purple Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-26T09:31:13</property>
+    <property name="created">2020-01-03T16:54:33</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-01-03T16:56:36</property>
-    <property name="originalScheme">Dark purple</property>
+    <property name="ideVersion">2019.3.1.0.0</property>
+    <property name="modified">2020-01-03T16:55:05</property>
+    <property name="originalScheme">_@user_Dark purple</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="39703f" />
-    <option name="ANNOTATIONS_COLOR" value="adadb3" />
+    <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="242433" />
+    <option name="CARET_ROW_COLOR" value="1d1d29" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d1d26" />
     <option name="DELETED_LINES_COLOR" value="dfdfe6" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
     <option name="DOCUMENTATION_COLOR" value="2c2c3b" />
     <option name="ERROR_HINT" value="802d43" />
-    <option name="FILESTATUS_ADDED" value="76b366" />
-    <option name="FILESTATUS_DELETED" value="7a7a99" />
     <option name="FILESTATUS_HIJACKED" value="" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="a7a7a7" />
-    <option name="FILESTATUS_MERGED" value="b78fcc" />
-    <option name="FILESTATUS_MODIFIED" value="62baf5" />
     <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="54bfbf" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="" />
-    <option name="FILESTATUS_UNKNOWN" value="bf8060" />
-    <option name="FILESTATUS_addedOutside" value="548049" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="495bb3" />
-    <option name="GUTTER_BACKGROUND" value="20202b" />
+    <option name="GUTTER_BACKGROUND" value="0" />
     <option name="INDENT_GUIDE" value="393747" />
     <option name="INFORMATION_HINT" value="2e4280" />
     <option name="LINE_NUMBERS_COLOR" value="575566" />
@@ -40,6 +37,7 @@
     <option name="MODIFIED_LINES_COLOR" value="3e7ab3" />
     <option name="NOTIFICATION_BACKGROUND" value="4a2d59" />
     <option name="QUESTION_HINT" value="2e4280" />
+    <option name="READONLY_BACKGROUND" value="0" />
     <option name="RECENT_LOCATIONS_SELECTION" value="362f45" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="a5b33e" />
     <option name="RIGHT_MARGIN_COLOR" value="373445" />
@@ -48,11 +46,11 @@
     <option name="SEPARATOR_BELOW_COLOR" value="100e14" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="c9c9d1" />
     <option name="TEARLINE_COLOR" value="403a52" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="3d223d" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="13223d" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="123624" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="3b301d" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="3d2525" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="143d00" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="452800" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="1847" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="470047" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="330003" />
     <option name="VISUAL_INDENT_GUIDE" value="373445" />
     <option name="WHITESPACES" value="8b85a6" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="626273" />
@@ -510,9 +508,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="123020" />
-      </value>
+      <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -745,7 +741,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c9c9d1" />
-        <option name="BACKGROUND" value="1d1d26" />
+        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
