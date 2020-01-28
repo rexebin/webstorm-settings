@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="common.ts" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="PLAIN_TEXT" />
       <mapping pattern="change-email.ts" type="TypeScript" />
       <mapping pattern="create-add-to-module-context" type="TypeScript" />
       <mapping ext="module" type="TypeScript" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
